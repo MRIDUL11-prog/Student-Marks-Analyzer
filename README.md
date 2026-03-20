@@ -133,7 +133,7 @@ This project is licensed under the MIT License.
 
 Mridul Saha
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/MRIDUL11-prog
 
 ---
 
